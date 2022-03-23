@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+
 :root {
   --green: rgb(39, 189, 39);
+}
+
+.murder-font {
+  font-family: 'Palette Mosaic', cursive;
 }
 
 * {
